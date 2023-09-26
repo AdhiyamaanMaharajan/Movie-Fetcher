@@ -1,6 +1,7 @@
 # Movie-Fetcher using React-JS
 Fetching detailes about the STAR-WAR series by sending a GET request though API call
 ## Concepts used in this Project
+ - STAR WAR API
  - React Hooks
     - useState Hook
     - useEffect Hook
